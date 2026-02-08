@@ -9,3 +9,6 @@ STEM-focused college student with experience in robotics curriculum development,
 - Software development  
 - STEM outreach initiatives  
 - Community involvement
+- ## Affiliations
+- NCWIT Aspirations in Computing (AiC) Community Member
+- STEMTaught foundation intern
